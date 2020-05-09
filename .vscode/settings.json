@@ -1,3 +1,4 @@
 {
-    "python.pythonPath": "C:\\Users\\Matt\\.virtualenvs\\Leadmanager-92hdz_yT\\Scripts\\python.exe"
+    "python.pythonPath": "C:\\Users\\Matt\\.virtualenvs\\Leadmanager-92hdz_yT\\Scripts\\python.exe",
+    "prettier.useEditorConfig": false
 }
